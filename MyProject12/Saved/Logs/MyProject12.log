@@ -843,3 +843,58 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.16-12.32.46:843][960]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
 [2020.05.16-12.32.49:973][302]LogRenderer: Reallocating scene render targets to support 1528x1000 Format 10 NumSamples 1 (Frame:1).
 [2020.05.16-12.32.58:138][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.05.16-12.41.47:055][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.05.16-12.41.47:055][ 23]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.027
+[2020.05.16-12.51.47:632][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.05.16-12.51.47:632][823]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.028
+[2020.05.16-13.01.48:037][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.05.16-13.01.48:037][615]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.028
+[2020.05.16-13.11.48:725][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.16-13.11.48:725][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.028
+[2020.05.16-13.21.49:258][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.16-13.21.49:258][198]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.029
+[2020.05.16-13.31.49:993][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.05.16-13.31.49:993][990]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.031
+[2020.05.16-13.41.50:704][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.05.16-13.41.50:704][782]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.028
+[2020.05.16-13.51.32:317][518]LogHttp: Warning: 000002113BF94540: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.05.16-13.51.32:317][518]LogHttp: Warning: 000002113BF94540: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2110fc43f70 [can pipeline])
+[2020.05.16-13.51.32:317][518]LogHttp: Warning: 000002113BF94540: libcurl info message cache 1 (Re-using existing connection! (#26) with host datarouter.ol.epicgames.com)
+[2020.05.16-13.51.32:317][518]LogHttp: Warning: 000002113BF94540: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.127.160) port 443 (#26))
+[2020.05.16-13.51.32:317][518]LogHttp: Warning: 000002113BF94540: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.05.16-13.51.32:317][518]LogHttp: Warning: 000002113BF94540: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.05.16-13.51.32:317][518]LogHttp: Warning: 000002113BF94540: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.05.16-13.51.32:317][518]LogHttp: Warning: 000002113BF94540: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.05.16-13.51.32:317][518]LogHttp: Warning: 000002113BF94540: libcurl info message cache 7 (Closing connection 26)
+[2020.05.16-13.51.32:318][518]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4F353EE1-4090-0E96-3B3C-7F80F596F304%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=a6edd896484fb735badfe4bd582f16e0%7C21f85debb8854c89b438c74c5d482c13%7C447f5c6a-0527-4cf2-b0e8-d13f7972208e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.16-13.51.51:172][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.05.16-13.51.51:172][573]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.029
+[2020.05.16-14.01.51:576][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.05.16-14.01.51:576][364]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.026
+[2020.05.16-14.11.52:231][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.16-14.11.52:231][156]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.029
+[2020.05.16-14.21.52:691][947]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.05.16-14.21.52:691][947]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.031
+[2020.05.16-14.31.53:103][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.16-14.31.53:103][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.029
+[2020.05.16-14.41.53:820][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.16-14.41.53:820][530]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.031
+[2020.05.16-14.51.54:353][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.05.16-14.51.54:353][322]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.029
+[2020.05.16-15.01.54:876][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.05.16-15.01.54:876][113]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.028
+[2020.05.16-15.11.55:388][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.05.16-15.11.55:388][903]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.029
+[2020.05.16-15.14.32:470][373]LogHttp: Warning: 000002113BF951C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.16-15.14.32:470][373]LogHttp: Warning: 000002113BF951C0: libcurl info message cache 0 (Connection 52 seems to be dead!)
+[2020.05.16-15.14.32:470][373]LogHttp: Warning: 000002113BF951C0: libcurl info message cache 1 (Closing connection 52)
+[2020.05.16-15.14.32:470][373]LogHttp: Warning: 000002113BF951C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.05.16-15.14.32:470][373]LogHttp: Warning: 000002113BF951C0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.16-15.14.32:470][373]LogHttp: Warning: 000002113BF951C0: libcurl info message cache 4 (Closing connection 53)
+[2020.05.16-15.14.32:810][374]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4F353EE1-4090-0E96-3B3C-7F80F596F304%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=a6edd896484fb735badfe4bd582f16e0%7C21f85debb8854c89b438c74c5d482c13%7C447f5c6a-0527-4cf2-b0e8-d13f7972208e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.16-15.21.55:885][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.05.16-15.21.55:885][695]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.029
+[2020.05.16-15.31.56:425][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.16-15.31.56:425][487]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.029
+[2020.05.16-15.41.57:071][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.05.16-15.41.57:071][279]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.029
